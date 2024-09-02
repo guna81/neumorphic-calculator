@@ -10,7 +10,7 @@ A Neumorphism effect calculator with light and dark mode, built using HTML, CSS,
 
 ### Dark Theme
 
-![neumorphic-calculator](./screenshots/image2.png "neumorphic-calculator")
+![neumorphic-calculator](./screenshots/image1.png "neumorphic-calculator")
 
 ## Features
 
@@ -26,5 +26,5 @@ Check out the live demo [here](https://guna81.github.io/neumorphic-calculator/).
 
 ```bash
 git clone https://github.com/guna81/neumorphic-calculator.git
-cd todo-app
+cd neumorphic-calculator
 ```
